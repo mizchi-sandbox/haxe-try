@@ -1,6 +1,7 @@
 # HaXe Test
 
 ```
+npm install
 haxe build.xml
 open index.html
 ```
