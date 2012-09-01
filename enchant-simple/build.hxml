@@ -1,0 +1,4 @@
+-cp src
+-main Main
+-lib underscore.hx
+-js all.js
