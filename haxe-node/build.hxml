@@ -1,0 +1,4 @@
+-cp src
+-lib nodejs
+-main Main
+-js app.js
