@@ -2,5 +2,5 @@
 
 ```
 haxe build.xml
-open index.html
+node app.js
 ```
